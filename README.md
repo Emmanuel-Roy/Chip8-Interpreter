@@ -1,5 +1,5 @@
-# Chip8-Emulator-C-
-WIP CHIP-8 Emulator made in C++ using SDL2.
+# Chip8-Interpreter
+Chip8 Interpreter made in C++ using SDL2.
 
 ## OPCode Test
 ![image](https://github.com/Emmanuel-Roy/Chip8-Emulator-C-/assets/54725843/7afd7de1-844f-4842-aae9-41da426e5c9e)
