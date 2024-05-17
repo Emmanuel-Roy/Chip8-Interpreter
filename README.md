@@ -1,4 +1,4 @@
-# Chip8-Interpreter
+# Chip8 Interpreter
 Chip8 Interpreter made in C++ using SDL2.
 
 ## OPCode Test
