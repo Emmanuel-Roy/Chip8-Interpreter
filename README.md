@@ -1,4 +1,4 @@
-# Chip8 Interpreter
+# Chip8 Interpreter/Emulator
 C++ Simulator for the old 1802 Microprocessor-based systems created in 1974.
 
 ## OPCode Test
